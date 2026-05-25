@@ -46,7 +46,7 @@ Fine-tune the `bert-base-uncased` transformer model on the AG News dataset to au
 | Metric | Value |
 |---|---|
 | Accuracy | 90.12% |
-| Weighted F1-Score | 90.12% |
+| Weighted F1-Score | 90.11% |
 
 ---
 
