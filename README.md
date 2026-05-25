@@ -87,6 +87,6 @@ pip install transformers datasets scikit-learn accelerate gradio
 
 ## 📁 Repository Structure
 ```
-├── News_Topic_Classifier_BERT.ipynb
+├── BERT_News_Classifier.ipynb
 └── README.md
 ```
